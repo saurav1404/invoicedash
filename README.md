@@ -12,6 +12,8 @@ DATABASE_URL=
 NEXTAUTH_URL=http://localhost:3000
 NEXTAUTH_SECRET= # Linux: `openssl rand -hex 32` or go to https://generate-secret.now.sh/32
 
+```
+
 Finally, run the following commands to start the development server:
 
 ```
