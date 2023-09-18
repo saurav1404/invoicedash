@@ -1,0 +1,12 @@
+{
+    "id": 25753,
+    "tenantId": 172,
+    "yearMonth": "2022-11",
+    "invoiceDate": 1669854714,
+    "dueDate": 1669852800,
+    "state": "DUE",
+    "amount": 143337,
+    "forecastAmount": 0,
+    "totalOnDemandAmount": 143337,
+    "discountedCommitAmount": 0
+}

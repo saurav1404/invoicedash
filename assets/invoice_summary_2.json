@@ -1,0 +1,15 @@
+{
+    "id": 24437068,
+    "label": "Invoice #24437068",
+    "date": "2023-08-01T04:19:50",
+    "subtotal": 0.0,
+    "tax": 0.0,
+    "tax_summary": [
+        {
+            "name": "Standard Rate",
+            "tax": 0.0
+        }
+    ],
+    "total": 0.0,
+    "billing_source": "linode"
+}

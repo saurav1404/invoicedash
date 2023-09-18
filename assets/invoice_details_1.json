@@ -1,0 +1,605 @@
+{
+    "summary": {
+        "id": 25753,
+        "tenantId": 172,
+        "yearMonth": "2022-11",
+        "invoiceDate": 1669854714,
+        "dueDate": 1669852800,
+        "state": "DUE",
+        "amount": 143337,
+        "forecastAmount": 0,
+        "totalOnDemandAmount": 143337,
+        "discountedCommitAmount": 0
+    },
+    "lineItems": [
+        {
+            "productId": "8f1d361a-785b-4b8d-b1bb-c4f392fbf3b7",
+            "meterId": 5454,
+            "amount": 18200,
+            "instanceCount": 6,
+            "meteredUnits": 910,
+            "unitPrice": 20,
+            "forecastAmount": 0,
+            "subscriptionLineItems": [
+                {
+                    "productId": "8f1d361a-785b-4b8d-b1bb-c4f392fbf3b7",
+                    "subscriptionMeterId": 35610,
+                    "subscriptionName": "Montreal_vIon",
+                    "amount": 20,
+                    "meteredUnits": 1,
+                    "unitPrice": 20,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "8f1d361a-785b-4b8d-b1bb-c4f392fbf3b7",
+                    "subscriptionMeterId": 35605,
+                    "subscriptionName": "Montreal_vIon",
+                    "amount": 440,
+                    "meteredUnits": 22,
+                    "unitPrice": 20,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "8f1d361a-785b-4b8d-b1bb-c4f392fbf3b7",
+                    "subscriptionMeterId": 35601,
+                    "subscriptionName": "Montreal_vIOn",
+                    "amount": 180,
+                    "meteredUnits": 9,
+                    "unitPrice": 20,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "8f1d361a-785b-4b8d-b1bb-c4f392fbf3b7",
+                    "subscriptionMeterId": 35435,
+                    "subscriptionName": "hemant_vIOn",
+                    "amount": 600,
+                    "meteredUnits": 30,
+                    "unitPrice": 20,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "8f1d361a-785b-4b8d-b1bb-c4f392fbf3b7",
+                    "subscriptionMeterId": 35095,
+                    "subscriptionName": "Reston_Branch_vION",
+                    "amount": 11180,
+                    "meteredUnits": 559,
+                    "unitPrice": 20,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "8f1d361a-785b-4b8d-b1bb-c4f392fbf3b7",
+                    "subscriptionMeterId": 35136,
+                    "subscriptionName": "Montreal_Branch_vION",
+                    "amount": 5780,
+                    "meteredUnits": 289,
+                    "unitPrice": 20,
+                    "forecastAmount": 0
+                }
+            ]
+        },
+        {
+            "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+            "meterId": 5455,
+            "amount": 112,
+            "instanceCount": 9,
+            "meteredUnits": 7,
+            "unitPrice": 16,
+            "forecastAmount": 0,
+            "subscriptionLineItems": [
+                {
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionMeterId": 35299,
+                    "subscriptionName": "C4I_US_East-vpc - Data",
+                    "amount": 16,
+                    "meteredUnits": 1,
+                    "unitPrice": 16,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionMeterId": 35436,
+                    "subscriptionName": "hemant_vIOn - Data",
+                    "amount": 16,
+                    "meteredUnits": 1,
+                    "unitPrice": 16,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionMeterId": 35612,
+                    "subscriptionName": "Montreal_vIon - Data",
+                    "amount": 16,
+                    "meteredUnits": 1,
+                    "unitPrice": 16,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionMeterId": 35611,
+                    "subscriptionName": "C4I_US_East-vpc - Data",
+                    "amount": 0,
+                    "meteredUnits": 0,
+                    "unitPrice": 16,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionMeterId": 35606,
+                    "subscriptionName": "Montreal_vIon - Data",
+                    "amount": 16,
+                    "meteredUnits": 1,
+                    "unitPrice": 16,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionMeterId": 35602,
+                    "subscriptionName": "Montreal_vIOn - Data",
+                    "amount": 16,
+                    "meteredUnits": 1,
+                    "unitPrice": 16,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionMeterId": 35096,
+                    "subscriptionName": "Reston_Branch_vION - Data",
+                    "amount": 16,
+                    "meteredUnits": 1,
+                    "unitPrice": 16,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionMeterId": 35137,
+                    "subscriptionName": "Montreal_Branch_vION - Data",
+                    "amount": 16,
+                    "meteredUnits": 1,
+                    "unitPrice": 16,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionMeterId": 35298,
+                    "subscriptionName": "C4I_EU_CENTRAL-vpc - Data",
+                    "amount": 0,
+                    "meteredUnits": 0,
+                    "unitPrice": 16,
+                    "forecastAmount": 0
+                }
+            ]
+        },
+        {
+            "productId": "59377471-eb74-4866-bef8-fac62c7f973d",
+            "meterId": 5481,
+            "amount": 11425,
+            "instanceCount": 3,
+            "meteredUnits": 457,
+            "unitPrice": 25,
+            "forecastAmount": 0,
+            "subscriptionLineItems": [
+                {
+                    "productId": "59377471-eb74-4866-bef8-fac62c7f973d",
+                    "subscriptionMeterId": 35609,
+                    "subscriptionName": "C4I_US_East-vpc",
+                    "amount": 25,
+                    "meteredUnits": 1,
+                    "unitPrice": 25,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "59377471-eb74-4866-bef8-fac62c7f973d",
+                    "subscriptionMeterId": 35297,
+                    "subscriptionName": "C4I_EU_CENTRAL-vpc",
+                    "amount": 2800,
+                    "meteredUnits": 112,
+                    "unitPrice": 25,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "59377471-eb74-4866-bef8-fac62c7f973d",
+                    "subscriptionMeterId": 35296,
+                    "subscriptionName": "C4I_US_East-vpc",
+                    "amount": 8600,
+                    "meteredUnits": 344,
+                    "unitPrice": 25,
+                    "forecastAmount": 0
+                }
+            ]
+        },
+        {
+            "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+            "meterId": 5456,
+            "amount": 109200,
+            "instanceCount": 2,
+            "meteredUnits": 910,
+            "unitPrice": 120,
+            "forecastAmount": 0,
+            "subscriptionLineItems": [
+                {
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionMeterId": 35613,
+                    "subscriptionName": "EU-CENTRAL",
+                    "amount": 120,
+                    "meteredUnits": 1,
+                    "unitPrice": 120,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionMeterId": 35607,
+                    "subscriptionName": "EU-CENTRAL",
+                    "amount": 2640,
+                    "meteredUnits": 22,
+                    "unitPrice": 120,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionMeterId": 35603,
+                    "subscriptionName": "EU-CENTRAL",
+                    "amount": 1080,
+                    "meteredUnits": 9,
+                    "unitPrice": 120,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionMeterId": 35437,
+                    "subscriptionName": "EU-CENTRAL",
+                    "amount": 3600,
+                    "meteredUnits": 30,
+                    "unitPrice": 120,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionMeterId": 35097,
+                    "subscriptionName": "US-EAST",
+                    "amount": 67080,
+                    "meteredUnits": 559,
+                    "unitPrice": 120,
+                    "forecastAmount": 0
+                },
+                {
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionMeterId": 35138,
+                    "subscriptionName": "EU-CENTRAL",
+                    "amount": 34680,
+                    "meteredUnits": 289,
+                    "unitPrice": 120,
+                    "forecastAmount": 0
+                }
+            ]
+        },
+        {
+            "productId": "663049e0-4a51-4552-a31f-19cdea714c5b",
+            "meterId": 5501,
+            "amount": 4400,
+            "instanceCount": 1,
+            "meteredUnits": 55,
+            "unitPrice": 80,
+            "forecastAmount": 0,
+            "subscriptionLineItems": [
+                {
+                    "productId": "663049e0-4a51-4552-a31f-19cdea714c5b",
+                    "subscriptionMeterId": 35622,
+                    "subscriptionName": "C4I-US-East-PA-FW-instance-1",
+                    "amount": 4400,
+                    "meteredUnits": 55,
+                    "unitPrice": 80,
+                    "forecastAmount": 0
+                }
+            ]
+        }
+    ],
+    "tagLineItems": [
+        {
+            "tagId": 200104,
+            "tagName": "FWaaS",
+            "amount": 26760,
+            "instanceCount": 2,
+            "onDemandAmount": 26760,
+            "discountAmount": 0,
+            "detailTagLineItems": [
+                {
+                    "tagName": "FWaaS",
+                    "productId": "663049e0-4a51-4552-a31f-19cdea714c5b",
+                    "subscriptionName": "C4I-US-East-PA-FW-instance-1",
+                    "subscriptionInternalName": "svci-pan-9b966744-0d3f-45f1-ac6a-cf86348d",
+                    "amount": 4400
+                },
+                {
+                    "tagName": "FWaaS",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "US-EAST",
+                    "subscriptionInternalName": "US-EAST",
+                    "amount": 22360
+                }
+            ]
+        },
+        {
+            "tagId": 200105,
+            "tagName": "inet-tag",
+            "amount": 0,
+            "instanceCount": 1,
+            "onDemandAmount": 0,
+            "discountAmount": 0
+        },
+        {
+            "tagId": 200081,
+            "tagName": "on-prem",
+            "amount": 64104,
+            "instanceCount": 1,
+            "onDemandAmount": 64104,
+            "discountAmount": 0,
+            "detailTagLineItems": [
+                {
+                    "tagName": "on-prem",
+                    "productId": "8f1d361a-785b-4b8d-b1bb-c4f392fbf3b7",
+                    "subscriptionName": "Montreal_Branch_vION",
+                    "subscriptionInternalName": "coni-ip_sec-b1e3d03b-4b58-400d-9d40-72c4f0fc",
+                    "amount": 5780
+                },
+                {
+                    "tagName": "on-prem",
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionName": "Montreal_Branch_vION - Data",
+                    "subscriptionInternalName": "coni-ip_sec-b1e3d03b-4b58-400d-9d40-72c4f0fc",
+                    "amount": 16
+                },
+                {
+                    "tagName": "on-prem",
+                    "productId": "8f1d361a-785b-4b8d-b1bb-c4f392fbf3b7",
+                    "subscriptionName": "Montreal_vIOn",
+                    "subscriptionInternalName": "coni-ip_sec-b006bbd8-32cd-42ff-9d4d-db1fe5f7",
+                    "amount": 180
+                },
+                {
+                    "tagName": "on-prem",
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionName": "Montreal_vIOn - Data",
+                    "subscriptionInternalName": "coni-ip_sec-b006bbd8-32cd-42ff-9d4d-db1fe5f7",
+                    "amount": 16
+                },
+                {
+                    "tagName": "on-prem",
+                    "productId": "8f1d361a-785b-4b8d-b1bb-c4f392fbf3b7",
+                    "subscriptionName": "Montreal_vIon",
+                    "subscriptionInternalName": "coni-ip_sec-50c4b410-7ba8-4c2d-a05e-85efa1f7",
+                    "amount": 440
+                },
+                {
+                    "tagName": "on-prem",
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionName": "Montreal_vIon - Data",
+                    "subscriptionInternalName": "coni-ip_sec-50c4b410-7ba8-4c2d-a05e-85efa1f7",
+                    "amount": 16
+                },
+                {
+                    "tagName": "on-prem",
+                    "productId": "8f1d361a-785b-4b8d-b1bb-c4f392fbf3b7",
+                    "subscriptionName": "Montreal_vIon",
+                    "subscriptionInternalName": "coni-ip_sec-4d5f12c8-836a-4e9b-abf4-22eca974",
+                    "amount": 20
+                },
+                {
+                    "tagName": "on-prem",
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionName": "Montreal_vIon - Data",
+                    "subscriptionInternalName": "coni-ip_sec-4d5f12c8-836a-4e9b-abf4-22eca974",
+                    "amount": 16
+                },
+                {
+                    "tagName": "on-prem",
+                    "productId": "8f1d361a-785b-4b8d-b1bb-c4f392fbf3b7",
+                    "subscriptionName": "Reston_Branch_vION",
+                    "subscriptionInternalName": "coni-ip_sec-21906196-a7d4-4082-b7cb-7b30287d",
+                    "amount": 11180
+                },
+                {
+                    "tagName": "on-prem",
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionName": "Reston_Branch_vION - Data",
+                    "subscriptionInternalName": "coni-ip_sec-21906196-a7d4-4082-b7cb-7b30287d",
+                    "amount": 16
+                },
+                {
+                    "tagName": "on-prem",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "EU-CENTRAL",
+                    "subscriptionInternalName": "EU-CENTRAL",
+                    "amount": 1508
+                },
+                {
+                    "tagName": "on-prem",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "EU-CENTRAL",
+                    "subscriptionInternalName": "EU-CENTRAL",
+                    "amount": 19816
+                },
+                {
+                    "tagName": "on-prem",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "EU-CENTRAL",
+                    "subscriptionInternalName": "EU-CENTRAL",
+                    "amount": 2056
+                },
+                {
+                    "tagName": "on-prem",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "EU-CENTRAL",
+                    "subscriptionInternalName": "EU-CENTRAL",
+                    "amount": 68
+                },
+                {
+                    "tagName": "on-prem",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "US-EAST",
+                    "subscriptionInternalName": "US-EAST",
+                    "amount": 22360
+                },
+                {
+                    "tagName": "on-prem",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "EU-CENTRAL",
+                    "subscriptionInternalName": "EU-CENTRAL",
+                    "amount": 616
+                }
+            ]
+        },
+        {
+            "tagId": 200082,
+            "tagName": "Untagged",
+            "amount": 12681,
+            "instanceCount": 0,
+            "onDemandAmount": 12681,
+            "discountAmount": 0,
+            "detailTagLineItems": [
+                {
+                    "tagName": "Untagged",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "EU-CENTRAL",
+                    "subscriptionInternalName": "EU-CENTRAL",
+                    "amount": 35
+                },
+                {
+                    "tagName": "Untagged",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "EU-CENTRAL",
+                    "subscriptionInternalName": "EU-CENTRAL",
+                    "amount": 755
+                },
+                {
+                    "tagName": "Untagged",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "EU-CENTRAL",
+                    "subscriptionInternalName": "EU-CENTRAL",
+                    "amount": 9910
+                },
+                {
+                    "tagName": "Untagged",
+                    "productId": "59377471-eb74-4866-bef8-fac62c7f973d",
+                    "subscriptionName": "C4I_US_East-vpc",
+                    "subscriptionInternalName": "con-aws_vpc-33be38a3-8a14-4051-89b2-b3b69c75",
+                    "amount": 25
+                },
+                {
+                    "tagName": "Untagged",
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionName": "C4I_US_East-vpc - Data",
+                    "subscriptionInternalName": "con-aws_vpc-33be38a3-8a14-4051-89b2-b3b69c75",
+                    "amount": 0
+                },
+                {
+                    "tagName": "Untagged",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "EU-CENTRAL",
+                    "subscriptionInternalName": "EU-CENTRAL",
+                    "amount": 1030
+                },
+                {
+                    "tagName": "Untagged",
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionName": "hemant_vIOn - Data",
+                    "subscriptionInternalName": "coni-ip_sec-522177e9-b5ca-4a52-b538-94052205",
+                    "amount": 16
+                },
+                {
+                    "tagName": "Untagged",
+                    "productId": "8f1d361a-785b-4b8d-b1bb-c4f392fbf3b7",
+                    "subscriptionName": "hemant_vIOn",
+                    "subscriptionInternalName": "coni-ip_sec-522177e9-b5ca-4a52-b538-94052205",
+                    "amount": 600
+                },
+                {
+                    "tagName": "Untagged",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "EU-CENTRAL",
+                    "subscriptionInternalName": "EU-CENTRAL",
+                    "amount": 310
+                }
+            ]
+        },
+        {
+            "tagId": 200085,
+            "tagName": "aws-cloud",
+            "amount": 39792,
+            "instanceCount": 2,
+            "onDemandAmount": 39792,
+            "discountAmount": 0,
+            "detailTagLineItems": [
+                {
+                    "tagName": "aws-cloud",
+                    "productId": "59377471-eb74-4866-bef8-fac62c7f973d",
+                    "subscriptionName": "C4I_EU_CENTRAL-vpc",
+                    "subscriptionInternalName": "con-aws_vpc-581a8f6c-6f9f-46b2-9f46-80b0b625",
+                    "amount": 2800
+                },
+                {
+                    "tagName": "aws-cloud",
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionName": "C4I_EU_CENTRAL-vpc - Data",
+                    "subscriptionInternalName": "con-aws_vpc-581a8f6c-6f9f-46b2-9f46-80b0b625",
+                    "amount": 0
+                },
+                {
+                    "tagName": "aws-cloud",
+                    "productId": "59377471-eb74-4866-bef8-fac62c7f973d",
+                    "subscriptionName": "C4I_US_East-vpc",
+                    "subscriptionInternalName": "con-aws_vpc-d37f5d2d-7a19-4a20-9349-97f3abce",
+                    "amount": 8600
+                },
+                {
+                    "tagName": "aws-cloud",
+                    "productId": "a15eb005-dc9e-49e3-ac56-f96b3794e1c2",
+                    "subscriptionName": "C4I_US_East-vpc - Data",
+                    "subscriptionInternalName": "con-aws_vpc-d37f5d2d-7a19-4a20-9349-97f3abce",
+                    "amount": 16
+                },
+                {
+                    "tagName": "aws-cloud",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "EU-CENTRAL",
+                    "subscriptionInternalName": "EU-CENTRAL",
+                    "amount": 377
+                },
+                {
+                    "tagName": "aws-cloud",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "EU-CENTRAL",
+                    "subscriptionInternalName": "EU-CENTRAL",
+                    "amount": 4954
+                },
+                {
+                    "tagName": "aws-cloud",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "EU-CENTRAL",
+                    "subscriptionInternalName": "EU-CENTRAL",
+                    "amount": 514
+                },
+                {
+                    "tagName": "aws-cloud",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "EU-CENTRAL",
+                    "subscriptionInternalName": "EU-CENTRAL",
+                    "amount": 17
+                },
+                {
+                    "tagName": "aws-cloud",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "US-EAST",
+                    "subscriptionInternalName": "US-EAST",
+                    "amount": 22360
+                },
+                {
+                    "tagName": "aws-cloud",
+                    "productId": "e41aeb38-e9ad-4061-a0ec-da079b3a9e9e",
+                    "subscriptionName": "EU-CENTRAL",
+                    "subscriptionInternalName": "EU-CENTRAL",
+                    "amount": 154
+                }
+            ]
+        }
+    ]
+}
